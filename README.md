@@ -5,4 +5,4 @@ Taking tags as an example. As was done in the first try to add a tagging and ver
 
 Concrete first goal: implement a tagging horizontal component as middleware for a command bus that works with Joomla's MVC.
 
-Concrete second goal: add a component to configure all installed horizontal components for all installed vertical components. A horizontal component is by default on or off for all installed vertical components and in this ortho-configure-component we can fine-tune that for the current installation.
+Concrete second goal: add a component to configure all installed horizontal components for all installed vertical components. A horizontal component is by default on or off for all installed vertical components and in this ortho-configure-component we can fine-tune that for the current installation. Also see discussion on https://github.com/joomla-projects/joomla-pythagoras/blob/staging/discussion/orthogonal.md 
