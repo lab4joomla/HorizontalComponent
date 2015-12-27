@@ -1,2 +1,2 @@
-# InterceptingFilters
-Investigate middleware for command buses, mixins and aother ways to add behaviour
+# Intercepting Filters
+Investigate middleware for command buses, mixins and other ways to add behaviour to MVC
