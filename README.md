@@ -1,5 +1,5 @@
 # Horizontal component
-Building middleware for a command bus to add behaviour to MVC.  Working towards a new MVC. Until now in Nooku and FOF there was much emphasis on db-behaviour, thereby staying at the db-level; I'd like to investigate to bring that to a model-level, agnostic of any persistence. The view will be a content tree, agnostic of any rendering type. See https://github.com/joomla-projects/joomla-pythagoras/blob/staging/discussion/mvc.md 
+Building middleware for a command bus to add behaviour to MVC.  Working towards a new MVC. Until now in Nooku and FOF there was much emphasis on db-behaviour, thereby staying at the db-level; I'd like to investigate to bring that to a model- and view-level, agnostic of any persistence. The view will be a content tree, agnostic of any rendering type. See https://github.com/joomla-projects/joomla-pythagoras/blob/staging/discussion/mvc.md 
 
 Taking tags as an example. As was done in the first try to add a tagging and versioning behaviour as a plugin by Nicholas: https://github.com/joomla-projects/joomla-pythagoras/tree/staging/plugins/behaviour . And the tagging behaviour that is now being made in Joomlatools Framework: https://github.com/joomlatools/joomlatools-todo/issues/7 
 
